@@ -308,4 +308,4 @@ print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 ### SHOBAHUS SOLICHIN / 312010162 / TI.20 A.1 <br>
 ### ===================================== <br>
 
-![foto](Gambar1/shoba1.jfif)
+![foto](Gambar1/Al-aqsa.jpg)
