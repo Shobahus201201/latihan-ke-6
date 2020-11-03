@@ -40,7 +40,7 @@ print("==============================") <br>
 `print("Please enter your month of birth : DECEMBER")` <br>
 `month=input()` <br>
 `print("Please enter year of birth : 2001") <br>
-`year=(input()` <br>
+`year=int(input())` <br>
 `print("Please enter your phone number : 081297995301")`
 `phone=input()`
 `print("Please enter your address : Perum.Citra Graha Prima")`
@@ -116,7 +116,7 @@ statement dalam satu baris dibandingkan dengan metode yang lama yaitu memisahkan
 , ) atau plus ( + )<br>
 2. sedangkan fungsi {} pada output tersebut adalah untuk menampilkan hasil dari variable<br>
 Hasil dari output tersebut seperti berikut :<br>
-![All output](gambar/all_output.PNG)
+![All output](Gambar1/semua.PNG)
 
 <br>
 ---

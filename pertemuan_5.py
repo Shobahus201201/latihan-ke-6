@@ -26,4 +26,4 @@ address=input()
 dob=input("2020-year")
 
 print("\n\n Assalamu'alaikum.")
-print("Let me introduce my self, my name is {SHOBAHUS SOLICHIN}, but you can call me {SHOBA}, my NPM {312010076}, I was born in {JAKARTA} and iam {2020} years old, I am very glad if you want to invite my house in {Perum.Citra Graha Prima}, So don't forget to call me before with the number {0812397995301}, \n\n Thanks you ssss")
+print("Let me introduce my self, my name is {SHOBAHUS SOLICHIN}, but you can call me {SHOBA}, my NPM {312010076}, I was born in {JAKARTA} and iam {2020} years old, I am very glad if you want to invite my house in {Perum.Citra Graha Prima}, So don't forget to call me before with the number {0812397995301}, \n\n Thanks you ")
