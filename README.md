@@ -269,7 +269,7 @@ print('{0:8} | {1:9}'.format('Dono',10))
 
 ```
 Hasil dari source code contoh diatas akan seperti berikut :<br>
-![Output Alignment Contoh](gambar/contoh_12.PNG)
+![Output Alignment](Gambar1/string1.PNG)
 >Secara Default,**.format()** menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional<,^,atau 
 > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut : <br>
 ``` python
