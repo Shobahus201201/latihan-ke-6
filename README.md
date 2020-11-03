@@ -305,7 +305,7 @@ print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 <br>
 
 ### ============= THANK YOU ============= <br> 
-### SHOBAHUS SOLICHIN / 312010162 / TI.20 A.1 <br>
+### SHOBAHUS SOLICHIN / 312010076 / TI.20 A.1 <br>
 ### ===================================== <br>
 
 ![foto](Gambar1/Al-Aqsa.jpg)
