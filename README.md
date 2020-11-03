@@ -288,6 +288,7 @@ Untuk hasil dari String Format 2 adalah :<br>
 ## pertemuan 6 - Lab 2
 * Konversi Nilai Variable <br>
 Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu konversi Nilai Variable<br>
+
 Tugas 
 ![Picture Lab 2](Gambar1/end2.png)
 ``` python
