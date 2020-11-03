@@ -11,11 +11,11 @@ DAFTAR ISI
 | 3 | Tugas Pertemuan 6 - Lab 1-2 | [click here](#pertemuan-6---lab-1-2)
 
 
-print("==============================")
-print("= NAMA    : SHOBAHUS SOLICHIN     ")
-print("= NIM     : 312010076         ")
-print("= KELAS   : TI.20 A.1         ")
-print("==============================")
+print("==============================") <br> 
+print("= NAMA    : SHOBAHUS SOLICHIN ") <br>
+print("= NIM     : 312010076         ") <br>
+print("= KELAS   : TI.20 A.1         ") <br>
+print("==============================") <br>
 
 `print("Please enter your full name : SHOBAHUS SOLICHIN")` <br>
 `fullname=input()` <br>
@@ -43,6 +43,7 @@ print(f"Let me introduce my self, my name is {SHOBAHUS SOLICHIN}, but you can ca
 
 ```
 Berikut Penjelasannya :<br>
+
 ```python
 print("please enter your full name : ") <br>
 ``` <br>
@@ -54,11 +55,13 @@ print("Nama saya adalah...")
 print(1234567)
 ```
 (Seperti gambar dibawah ini)<br> 
-![Output](gambar1/.nama.PNG )
+![Output](gambar1/nama.PNG )
  * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax dibawah ini :
+
  ```python
+
 fullname=input()
-``` 
+``` <br>
 Keterangan : <br> 
 >Variable adalah sebuah wadah penyimpanan data pada program yang akan akan digunakan selama program itu berjalan. yang 
 berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
