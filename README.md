@@ -1,4 +1,4 @@
-Repository ini di buat untuk memenuhi tugas bahasa pemrograman pertemuan ke 6 <br> <br>
+# Repository ini di buat untuk memenuhi tugas bahasa pemrograman pertemuan ke 6 <br> <br>
 Nama  : SHOBAHUS SOLICHIN<br>
 Nim   : 312010076<br>
 Kelas : TI.20 A.1<br><br>
@@ -205,7 +205,7 @@ hasil dari syntax / source code diatas adalah seperti berikut ini : <br>
 
 
 <br>
-<hr>
+<br>
 <br>
 
 ## Pertemuan 6 - Lab 1-2
@@ -273,16 +273,17 @@ Hasil dari source code contoh diatas akan seperti berikut :<br>
 >Secara Default,**.format()** menggunakan rata text ke kiri, angka ke kanan, kita dapat menggunakan opsi opsional<,^,atau 
 > untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut : <br>
 ``` python
-print('{:<30}{:30}{:>30}'.format('kiri','tengah','kanan'))
-print('{:<30}{:30}{:>30}'.format(7,20,34))
+print('{:<30}{:30}{:>30}'.format('mobil','ufo','Helikopter'))
+print('{:<30}{:30}{:>30}'.format(10,20,25))
+
 ```
 Hasil dari source code contoh diatas akan muncul seperti ini :<br>
-![Output Alignment Contoh 2](gambar/contoh_123.PNG)
+![Output Alignment Contoh 2](Gambar1/hasil.PNG)
 <br><br>
 Untuk hasil dari String Format 2 adalah :<br>
 ![Output String Format 2](gambar/string2.PNG)
 
-<br><hr><br>
+<br><br><br>
 
 ## pertemuan 6 - Lab 2
 * Konversi Nilai Variable <br>
@@ -303,50 +304,7 @@ print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))
 print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
 ```
 <br>
-Setelah saya menjelaskan source code tersebut terdapat error, seperti gambar dibawah ini :<br>
 
-![Error Lab 2](gambar/error1.PNG)<br>
-Nah, untuk kali ini kita akan membaca error yang telah terjadi.<br>
-> **TypeError: %d format: number is required, not str** <br>
-
-Pada error tersebut terdapat terbaca bahwa variable tersebut a adalah string, yang seharusnya dibaca oleh system adalah 
-Number / Interger.<br>
-*bagaimana cara memperbaiki error tersebut?*<br>
-Kita lihat pada baris ke 5 (di notifikasi terbaca bahwa error terletak pada baris ke 5), yaitu pemformatan **.format()** 
-adalah interger, sedangkan jika berupa string maka akan ada tanda titik dua ("..") pada pemformatan **.format()**<br>
-Kita akan terfokus pada variable a dan b. <br> 
-Pada line 1 tertulis syntax : *a=input("masukan nilai a : ")* <br>
-Sedangkan pada line 2 tertulis syntax : *b=input("masukan nilai b : ")* <br>
-Untuk membuat inputan berupa interger/angka harus ditambahkan syntax int() pada format input(). yang seharusnya ditulis 
-adalah : <br>
-``` python
-a=int(input("masukkan nilai a:"))
-b=int(input("masukkan nilai b:"))
-```  
-<br>
-Kita akan ulangi semua syntax pada file ini, maka tulis seperti ini :<br>
-
-``` python
-a=int(input("masukkan nilai a:"))
-b=int(input("masukkan nilai b:"))
-print("variable a=",a)
-print("variable b=",b)
-print("hasil penggabungan {1}&{0}=%d".format(a,b) %(a+b))
-
-#konversi nilai variable
-a=int(a)
-b=int(b)
-print("hasil pejumlahan {1}+{0}=%d".format(a,b) %(a+b))
-print("hasil pembagian {1}/{0}=%d".format(a,b) %(a/b))
-```
-Kita akan coba lagi untuk *run* file tersebut, maka akan muncul seperti gambar dibawah ini :<br>
- ![Fixed Error Lab 2](gambar/fixed.PNG)
- <br><br>
- <hr>
- Setelah semua file berhasil disimpan dan dijalankan berhasil, maka selesai sudah Tugas pertemuan 6 - Bahasa pemrograman 
-kali ini.
- <br>
- 
- ### ============= THANK YOU ============= <br>
- ### SHOBAHUS SOLICHIN / 312010162 / TI.20 A.1 <br>
- ### ===================================== <br>
+### ============= THANK YOU ============= <br> 
+### SHOBAHUS SOLICHIN / 312010162 / TI.20 A.1 <br>
+### ===================================== <br>
