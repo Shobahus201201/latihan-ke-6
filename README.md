@@ -280,10 +280,6 @@ print('{:<30}{:30}{:>30}'.format(10,20,25))
 Hasil dari source code contoh diatas akan muncul seperti ini :<br>
 ![Output Alignment Contoh 2](Gambar1/hasil.PNG)
 <br><br>
-Untuk hasil dari String Format 2 adalah :<br>
-![Output String Format 2](gambar/string2.PNG)
-
-<br><br><br>
 
 ## pertemuan 6 - Lab 2
 * Konversi Nilai Variable <br>
