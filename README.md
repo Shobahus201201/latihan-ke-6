@@ -289,7 +289,7 @@ Untuk hasil dari String Format 2 adalah :<br>
 * Konversi Nilai Variable <br>
 Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu konversi Nilai Variable<br>
 Tugas 
-![Picture Lab 2](gambar/Lab1-2.PNG)
+![Picture Lab 2](Gambar1/end2.png)
 ``` python
 a=input("masukkan nilai a : ")
 b=input("masukkan nilai b : ")
