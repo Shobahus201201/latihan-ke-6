@@ -79,7 +79,7 @@ berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
 saat kita menekan tombol enter *(newline)*<br> 
  *(newline)*<br>
 
-[input](gambar/input_py.PNG)<br>
+[input](Gambar1/printnama.PNG)<br>
 pada gambar di atas, hasil dari inputan tersebut berwarna *hijau*<br><br>
 * Untuk memasukan perintah lain seperti *Nikname, NPM, Place Of Birth, Date Of Birth, Year Of Birth, Phone Number, and 
 Addres* mengikuti perintah sama seperti memasukan *fullname*<br>
