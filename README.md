@@ -54,7 +54,7 @@ print("Nama saya adalah...")
 print(1234567)
 ```
 (Seperti gambar dibawah ini)<br> 
-![Output fungsi Print](gambar1/.nama.PNG )
+![Output](gambar1/.nama.PNG )
  * Untuk source code berikutnya adalah inputan atau membuat variable. seperti syntax dibawah ini :
  ```python
 fullname=input()
