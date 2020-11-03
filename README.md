@@ -14,7 +14,7 @@ DAFTAR ISI
 
 Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata Python (seperti Gambar 
 dibawah ini) <br>
-![pertemuan](gambar1/pertemuan5.png) <br>
+![pertemuan5](gambar1/pertemuan5.png) <br>
 Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
 Berikut *source code* nya atau Klik Link berikut ([pertemuan5 python](pertemuan_5.py)): <br>
 ```python <br>
