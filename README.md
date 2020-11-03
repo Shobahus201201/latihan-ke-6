@@ -262,9 +262,11 @@ yaitu kanan dan kiri )<br>
 untuk mengatur perataan kiri, tengah, atau kanan. Contoh lain dalam penggunaan **.format()** sebagai berikut :<br> 
 
  ``` python
-print('{0:8} | {1:9}'.format('buah','Jumlah'))
-print('{0:8} | {1:9}'.format('Apel',3.))
-print('{0:8} | {1:9}'.format('Jeruk',10))
+print('{0:8} | {1:9}'.format('Nama orang','Jumlah'))
+print('{0:8} | {1:9}'.format('Doni',3.))
+print('{0:8} | {1:9}'.format('Dono',10))
+
+
 ```
 Hasil dari source code contoh diatas akan seperti berikut :<br>
 ![Output Alignment Contoh](gambar/contoh_12.PNG)
