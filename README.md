@@ -215,7 +215,8 @@ String formatting atau pemformatan string memungkinan kita menyuntikkan item ked
 menggabungkan string menggunakan koma atau string concatenation.<br>
 
 Penggunaan source code yang di berikan oleh dosen seperti berikut :
-![Lab 1-2](gambar/Lab1-2.PNG)
+![Lab 1-2](Gambar1/string.PNG)
+
 ``` python
 #string format 1
 print(0, 10**0)
