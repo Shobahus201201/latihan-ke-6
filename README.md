@@ -10,6 +10,14 @@ DAFTAR ISI
 | 2 | Tugas Pertemuan 6 - Lab 1 | [click here](#pertemuan-6---lab-1)
 | 3 | Tugas Pertemuan 6 - Lab 1-2 | [click here](#pertemuan-6---lab-1-2)
 
+## Pertemuan 5 - Tugas
+
+Pada pertemuan 5 Bahasa Pemrograman saya diberi tugas oleh Dosen untuk membuat Aplikasi Biodata Python (seperti Gambar 
+dibawah ini) <br>
+![pertemuan](poto/pertemuan5.png) <br>
+Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
+Berikut *source code* nya atau Klik Link berikut ([pertemuan5 python](pertemuan_5.py)): <br>
+```python <br>
 
 print("==============================") <br> 
 print("= NAMA    : SHOBAHUS SOLICHIN ") <br>
