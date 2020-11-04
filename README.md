@@ -49,7 +49,7 @@ print("==============================") <br>
 `dob=input("2020-year")` <br>
 
 `print("\n\n Assalamu'alaikum. ")` <br>
-print(f"Let me introduce my self, my name is {SHOBAHUS SOLICHIN}, but you can call me {SHOBA}, my NPM {31201006}, I was born in{JAKARTA} and iam {2020} years old, I am very glad if you want to invite my house in {Perum.Citra Graha Prima}, So don't forget to call me before with the number {081297995301}, \n\n Thanks you ")
+print(f"Let me introduce my self, my name is {SHOBAHUS SOLICHIN}, but you can call me {SHOBA}, my NPM {31201006}, I was born in{JAKARTA} and   iam {2020} years old, I am very glad if you want to invite my house in {Perum.Citra Graha Prima}, So don't forget to call me before with the number {081297995301}, \n\n Thanks you ")
 
 ```
 Berikut Penjelasannya :<br>
@@ -286,7 +286,7 @@ Hasil dari source code contoh diatas akan muncul seperti ini :<br>
 Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu konversi Nilai Variable<br>
 
 Tugas 
-![Picture Lab 2](Gambar1/end2.png)
+![Picture Lab 2](Gambar1/konversi.png)
 ``` python
 a=input("masukkan nilai a : ")
 b=input("masukkan nilai b : ")
