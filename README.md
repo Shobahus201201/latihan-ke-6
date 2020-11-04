@@ -286,7 +286,7 @@ Hasil dari source code contoh diatas akan muncul seperti ini :<br>
 Untuk pembahasan terakhir, kali ini akan menyelesaikan tugas Lab 2 dari Dosen, yaitu konversi Nilai Variable<br>
 
 Tugas 
-![Picture Lab 2](Gambar1/konversi.png)
+![Picture Lab 2](Gambar1/variabel.png)
 ``` python
 a=input("masukkan nilai a : ")
 b=input("masukkan nilai b : ")
